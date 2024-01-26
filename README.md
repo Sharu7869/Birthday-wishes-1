@@ -115,7 +115,7 @@
   </div>
   <div class="text-container">
     <p id="head">Happy Birthday Harini!</p>
-    <h5>@LPW_Sajid</h5>
+    <h5>@sharuk_dpi</h5>
     <p>I hope your special day will bring you lots of happiness, love, and fun. You deserve them a lot. Enjoy!</p>
     <p>Hope your day goes great!</p>
   </div>
